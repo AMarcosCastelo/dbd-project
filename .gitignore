@@ -1,1 +1,9 @@
+# Node modules
 node_modules
+
+# Nx cache
+.nx/cache
+.nx/workspace-data
+
+# Disr
+dist
